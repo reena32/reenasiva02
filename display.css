@@ -1,0 +1,21 @@
+.inline{
+    display: block;
+}
+.itemms{
+    background-color: blueviolet;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+}
+.flex-container div{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    border-color: black;
+    padding:15px
+}
+h2
+{
+    padding: 60px                      .;
+}
+  

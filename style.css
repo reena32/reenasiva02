@@ -1,0 +1,19 @@
+table
+{
+ border: 3px solid color(srgb red green blue);
+ height:100vh;
+}
+.relative{
+    position:absolute;
+    top:40px;
+    left:80px;
+}                                                                                                                                                                                                                                                                                                                    
+.page{
+    height:100vh;
+}    
+.fixed{
+    position:fixed;
+    left:150px;
+}
+</body>
+</html>
